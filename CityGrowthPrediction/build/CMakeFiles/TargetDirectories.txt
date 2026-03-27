@@ -1,0 +1,3 @@
+C:/Users/DELL/OneDrive/Documents/VS-Code Projects/C++/CityGrowthPrediction/build/CMakeFiles/city_growth_prediction.dir
+C:/Users/DELL/OneDrive/Documents/VS-Code Projects/C++/CityGrowthPrediction/build/CMakeFiles/edit_cache.dir
+C:/Users/DELL/OneDrive/Documents/VS-Code Projects/C++/CityGrowthPrediction/build/CMakeFiles/rebuild_cache.dir
